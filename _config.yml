@@ -23,5 +23,10 @@ defaults:
       read_time: true
       share: true
       related: true
-liquid:
-  error_mode: warn
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
