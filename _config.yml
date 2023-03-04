@@ -2,6 +2,7 @@ lsi: false
 safe: true
 incremental: false
 highlighter: rouge
+github: [metadata]
 gist:
   noscript: false
 kramdown:
@@ -23,7 +24,7 @@ defaults:
       read_time: true
       share: true
       related: true
-gems:
+plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
