@@ -1,3 +1,13 @@
+lsi: false
+safe: true
+source: [lhy2813419591.github.io]
+incremental: false
+highlighter: rouge
+gist:
+  noscript: false
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
 theme: minimal-mistakes-jekyll
 minimal_mistakes_skin: "default"
 author:
