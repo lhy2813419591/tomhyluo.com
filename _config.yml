@@ -1,6 +1,5 @@
 lsi: false
 safe: true
-source: lhy2813419591.github.io
 incremental: false
 highlighter: rouge
 gist:
