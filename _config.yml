@@ -3,6 +3,8 @@ safe: true
 incremental: false
 highlighter: rouge
 github: [metadata]
+url: "https://www.tomhyluo.com"
+repository: "lhy2813419591/tomhyluo.com"
 gist:
   noscript: false
 kramdown:
