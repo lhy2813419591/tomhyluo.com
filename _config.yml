@@ -1,0 +1,16 @@
+theme: minimal-mistakes-jekyll
+minimal_mistakes_skin: "default"
+author:
+  name             : "Your Name"
+  bio              : "I am an **amazing** person."
+  location         : "Somewhere"
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      share: true
+      related: true
