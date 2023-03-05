@@ -11,11 +11,19 @@ kramdown:
   math_engine: mathjax
   syntax_highlighter: rouge
 theme: minimal-mistakes-jekyll
-minimal_mistakes_skin: "default"
+minimal_mistakes_skin: "dark"
 author:
-  name             : "Your Name"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  name             : "tomhyluo"
+  bio              : "不忘初心，方得始终"
+  location         : "成都"
+  avatar           : "/assets/images/avatar.jpg"
+  links:
+  - label: "Email"
+    icon: "fas fa-fw fa-envelope-square"
+    url: "mailto:luohaoyu0920@foxmail.com"
+  - label: "GitHub"
+    icon: "fab fa-fw fa-github"
+    url: "https://github.com/lhy2813419591"  
 defaults:
   - scope:
       path: ""
@@ -24,7 +32,6 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      share: true
       related: true
 plugins:
   - jekyll-paginate

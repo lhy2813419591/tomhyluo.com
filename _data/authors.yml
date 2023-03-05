@@ -1,0 +1,8 @@
+tomhyluo:
+  name        : "tomhyluo"
+  bio         : "不忘初心，方得始终"
+  avatar      : "/assets/images/avatar.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:luohaoyu0920@foxmail.com"
