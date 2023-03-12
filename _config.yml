@@ -12,6 +12,9 @@ kramdown:
   syntax_highlighter: rouge
 theme: minimal-mistakes-jekyll
 minimal_mistakes_skin: "dark"
+locale: "zh-CN"
+atom_feed:
+  hide: true
 author:
   name             : "tomhyluo"
   bio              : "不忘初心，方得始终"
@@ -24,6 +27,11 @@ author:
   - label: "GitHub"
     icon: "fab fa-fw fa-github"
     url: "https://github.com/lhy2813419591"  
+footer:
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/lhy2813419591"    
 defaults:
   - scope:
       path: ""
@@ -33,6 +41,9 @@ defaults:
       author_profile: true
       read_time: true
       related: true
+head_scripts:
+  - https://cdnjs.cloudflare.com/ajax/libs/viewerjs/1.11.3/viewer.min.js
+  - /assets/js/custom.js 
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
