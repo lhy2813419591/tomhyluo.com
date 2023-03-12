@@ -26,7 +26,10 @@ author:
     url: "mailto:luohaoyu0920@foxmail.com"
   - label: "GitHub"
     icon: "fab fa-fw fa-github"
-    url: "https://github.com/lhy2813419591"  
+    url: "https://github.com/lhy2813419591"
+  - label: "博客园"
+    icon: "fas fa-blog"
+    url: "https://www.cnblogs.com/lhyxq/"    
 footer:
   links:
     - label: "GitHub"
