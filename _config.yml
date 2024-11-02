@@ -18,7 +18,7 @@ atom_feed:
 author:
   name             : "tomhyluo"
   bio              : "不忘初心，方得始终"
-  location         : "成都"
+  location         : "上海"
   avatar           : "/assets/images/avatar.jpg"
   links:
   - label: "Email"
